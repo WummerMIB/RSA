@@ -1,4 +1,4 @@
-
+// 2120717 Marco Mohr, 2123474 Marie Kapusta
 public class Crypto {
 
 	private int[] normalArray;

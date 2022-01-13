@@ -1,3 +1,4 @@
+// 2120717 Marco Mohr, 2123474 Marie Kapusta
 import java.util.Scanner;
 
 public class Main {
